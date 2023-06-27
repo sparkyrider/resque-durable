@@ -3,7 +3,6 @@ source "https://rubygems.org"
 gemspec
 
 gem "appraisal"
-gem "bump"
 gem "minitest"
 gem "minitest-rg"
 gem "mocha"
