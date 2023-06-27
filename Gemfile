@@ -1,1 +1,13 @@
-eval_gemfile('gemfiles/rails6.1.gemfile')
+source "https://rubygems.org"
+
+gemspec
+
+gem "appraisal"
+gem "bump"
+gem "minitest"
+gem "minitest-rg"
+gem "mocha"
+gem "pry"
+gem "rake"
+gem "sqlite3"
+gem "timecop"
